@@ -13,7 +13,7 @@
  - [VK2TG](https://github.com/enotit/VK2TG/): relay of messages from [VK](https://vk.com) in [TG](https://telegram.org).
  - [enot-tik](https://github.com/enot-tik): CRM system. [Host / handler](https://github.com/enot-tik/server) and client app for workers. In development 🚧
  - [CED](https://github.com/enotit/ced): small app for android to record financial transactions.
- - [Test Task](https://github.com/enotit/test_task): a simple handler for returning product information. Here I use MongoDB and Spring Framework.
+ - [Test Task](https://github.com/enotit/test_task): a simple handler for returning product information. Here I use MongoDB and Spring Framework.  
 👉 I can show a bit projects, which I did private, because I didn\`t create gitignore files and I showed personal information :)
 
 ### My contacts:
